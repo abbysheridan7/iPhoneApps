@@ -1,7 +1,10 @@
 # Interface Builder
 
 ## Common Views
-![views](/storyboard.png)
+<img src="systemView.png" width=80% height=80%>
+
 
 ## Storyboard
-![storyboard](/storyboard.png)
+<img src="storyboard.png" width=80% height=80%>
+A place where you can design screen layout and how each screen connects to another
+
