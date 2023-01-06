@@ -1,7 +1,7 @@
 # Interface Builder
 
 ## Common Views
-![views](/systemView.png)
+![views](/storyboard.png)
 
 ## Storyboard
 ![storyboard](/storyboard.png)
